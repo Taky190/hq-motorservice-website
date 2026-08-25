@@ -1,0 +1,7 @@
+**/node_modules
+**/.git
+**/.wrangler
+**/.DS_Store
+package.json
+README.md
+wrangler.jsonc
